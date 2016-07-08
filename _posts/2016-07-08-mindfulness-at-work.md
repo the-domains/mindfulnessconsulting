@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'https://vimeo.com/133511493'
-datePublished: '2016-07-08T18:55:31.160Z'
-dateModified: '2016-07-08T18:54:48.352Z'
+description: ''
+datePublished: '2016-07-08T18:58:19.431Z'
+dateModified: '2016-07-08T18:57:41.214Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-mindfulness-at-work.md
@@ -17,6 +17,4 @@ url: mindfulness-at-work/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd9c1f9-58ba-4f1b-bb45-66cb9fc4f93e.jpg)
-
-https://vimeo.com/133511493
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ac48e6-7e3d-42fb-a486-0a58ae3ad21b.jpg)

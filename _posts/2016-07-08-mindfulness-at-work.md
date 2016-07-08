@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T18:58:19.431Z'
-dateModified: '2016-07-08T18:57:41.214Z'
+datePublished: '2016-07-08T19:01:36.123Z'
+dateModified: '2016-07-08T18:58:21.804Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-mindfulness-at-work.md
